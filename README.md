@@ -1,4 +1,4 @@
-# Team Exercise: Azure Cloud-hosted Data Processing Pipeline
+# Team Exercise: Cloud-hosted Data Processing Pipeline
 
 The task is to build a cloud-hosted data processing pipeline in Azure. The pipeline will consume Json arrays, debatch those arrays into Json objects, validate each object, transform each object, and then run custom business rules on those objects before inserting them into a database.
 
