@@ -141,9 +141,8 @@ Notably, you are otherwise free to choose how you implement the solution. Any Az
 
 ## Deliverables
 
-- All source code, ARM templates or other infrastructure-as-code configuration, build and CI/CD scripts, and data used in completing this exercise shall be made available for inspection in a git repository
-- Written rationale explaining why you made the architectural decisions you did. Include rationale for why you chose the programming language(s) you did.
-- Written documentation explaining how cost was calculated for scoring criteria #1 and what the costs are per scoring criteria #1
+- All diagrams explaining the data flow , logical acrhitecture , security architecture.
+- Written rationale explaining why you made the architectural decisions you did. Include rationale for how you see your aproach could scale and be cost effective.
 
 ## Scoring Criteria
 
